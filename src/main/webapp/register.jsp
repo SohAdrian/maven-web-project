@@ -4,6 +4,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <body>
+<h1>Register Form</h1>
     <form action="RegisterServlet" method="post">
  
         Name:<input type="text" name="userName"/><br/>
